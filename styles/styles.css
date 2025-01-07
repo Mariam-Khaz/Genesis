@@ -1,0 +1,34 @@
+.body {
+  font-family: "Mulish", sans-serif;
+  font-style: bold;
+}
+
+.headpart {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 90px;
+  height: 19px;
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  margin: 20px;
+  list-style: none;
+}
+
+.shooting-stars {
+  width: 635px;
+  height: 251px;
+}
+
+
+.quote {
+
+}
